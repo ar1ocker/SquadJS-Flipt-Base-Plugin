@@ -1,0 +1,1 @@
+# SquadJS-Flipt-Base-Plugin
